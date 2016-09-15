@@ -1,0 +1,17 @@
+name: Aviation
+description: Dating from 1915, amd created in the Hotel Wallick in New York, the drink tastes of palma violets
+categories:
+    - sweet
+    - art deco
+ingredients:
+    - gin
+    - lemon juice
+    - maraschino liqueur
+method:
+    - fill cocktail shaker with ice
+    - add 45ml gin
+    - add 15ml lemon juice
+    - add 15ml maraschino
+    - optionally add 15ml creme de violette
+    - shake, strain into cocktail glass without ice
+    - garnish with a cherry

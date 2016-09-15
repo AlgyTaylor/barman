@@ -1,0 +1,16 @@
+name: Americano
+description: An Italian cocktail invented in Italy in the 1860s, it was the first drink James Bond ordered in Ian Fleming's Casino Royale
+categories:
+    - victorian
+    - iba unforgettables
+    - pre dinner
+ingredients:
+    - campari
+    - red vermouth
+    - sparkling water
+method:
+    - add ice to old fashioned glass
+    - pour 30ml campari over ice
+    - pour 30ml vermouth over ice
+    - add a splash of soda water
+    - garnish with orange slice
