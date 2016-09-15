@@ -1,0 +1,24 @@
+name: Electric Iced Tea
+description: Citrus tea
+categories:
+    - strong
+    - summer
+    - citrus
+ingredients:
+    - blue curacao
+    - gin
+    - vodka
+    - tequila
+    - white rum
+    - lemon juice
+    - lemonade
+method:
+    - add ice to shaker
+    - add 12.5ml tequila
+    - add 12.5ml gin
+    - add 12.5ml vodka
+    - add 12.5ml white rum
+    - add 12.5ml blue curacao
+    - add 12.5ml lemon juice
+    - shake
+    - top up with lemonade, stir

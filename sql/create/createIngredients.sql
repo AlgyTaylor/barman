@@ -1,0 +1,4 @@
+CREATE TABLE ingredient (
+    name VARCHAR(100) NOT NULL PRIMARY KEY,
+    type VARCHAR(100) NOT NULL
+);

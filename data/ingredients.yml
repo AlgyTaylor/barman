@@ -1,0 +1,54 @@
+base_spirits:
+    - vodka
+    - whisky
+    - bourbon
+    - dark rum
+    - light rum
+    - tequila
+liqueurs:
+    - triple sec
+    - blue curacao
+    - creme de menthe
+    - creme de cacao
+    - red vermouth
+    - hazelnut liqueur
+    - irish cream
+    - chocolate cream
+    - passion fruit liqueur
+    - melon liqueur
+    - chambord
+    - creme de cassis
+    - chocolate mint liqueur
+    - christmas cake liqueur
+    - peach schnapps
+bitters:
+    - angostura bitters
+    - orange bitters
+    - cacao bitters
+syrups:
+    - sugar syrup
+    - grenadine
+    - vanilla syrup
+    - caramel syrup
+    - pear syrup
+    - raspberry syrup
+    - strawberry syrup
+    - blackberry syrup
+    - chocolate syrup
+    - passion fruit syrup
+    - rose syrup
+    - elderflower syrup
+    - mint syrup
+    - orange syrup
+    - cola syrup
+    - root beer syrup
+    - iron brew syrup
+    - dandilion & burdock syrup
+mixers:
+    - lemonade
+    - cola
+    - lemon juice
+    - orange juice
+    - apple juice
+    - milk
+    - sparkling water
