@@ -1,0 +1,18 @@
+name: Caramel Martini
+description: Coffee and caramel combine to create a delicious & moreish concoction
+categories:
+    - coffee
+    - house
+    - dessert
+ingredients:
+    - dark rum
+    - coffee liqueur
+    - espresso
+    - caramel syrup
+method:
+    - Fill shaker half full with ice
+    - Add 50ml rum
+    - Add 15ml coffee liqueur
+    - Add 25ml espresso
+    - Add 20ml caramel syrup
+    - Shake, pour in to martini glass

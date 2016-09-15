@@ -1,0 +1,22 @@
+name: Raspberry Ripple
+description: A popular ice cream flavour, turned in to a cocktail
+categories:
+    - fruit
+    - berry
+    - dessert
+    - cream
+ingredients:
+    - gin
+    - chambord
+    - cream
+    - raspberry syrup
+method:
+    - guesswork
+    - add ice to shaker
+    - add 30ml gin to shaker
+    - add 30ml chambord to shaker
+    - add 40ml cream to shaker
+    - shake
+    - drizzle raspberry syrup in glass sides
+    - pour in cocktail
+

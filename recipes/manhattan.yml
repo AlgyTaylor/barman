@@ -1,0 +1,14 @@
+name: Manhattan
+description: A classic cocktail said to have been invented by Winston Churchill's mother.
+categories:
+    - classic
+    - autumn
+    - winter
+ingredients:
+    - bourbon
+    - red vermouth
+    - angostura bitters
+method:
+    - Shake 50ml bourbon, 25ml red vermouth
+    - Add dash of bitters
+    - Garnish with cherry
