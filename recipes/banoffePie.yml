@@ -1,5 +1,8 @@
 name: Banoffee Pie
-description: Caramel and banana cocktail
+description: Caramel and banana cocktail from Tony Singh's popup restaurant in Edinburgh
+categories:
+    - dessert
+    - fruit
 ingredients:
     - vodka
     - caramel syrup
