@@ -1,5 +1,8 @@
 name: Banoffee Pie
 description: Caramel and banana cocktail
+categories:
+    - desert
+    - modern
 ingredients:
     - vodka
     - caramel syrup
