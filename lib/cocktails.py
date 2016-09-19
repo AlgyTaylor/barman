@@ -8,9 +8,9 @@ def load(filename):
     return data
 
 def prepForDatabase(cocktails):
-    array = []
+    cocktailList = []
 
     for cocktail in cocktails:
-        array.insert(len(array), (cocktail['name'], cocktail['description']))
-
-    return array
+        cocktailList.insert(len(cocktailList), (cocktail['name'], cocktail['description']))
+    
+    return cocktailList

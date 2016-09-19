@@ -4,7 +4,7 @@ import glob
 # load all cocktails
 def load(directory):
     datafiles = glob.glob(directory + "/*.yml")
-    return map(loadCocktail, datafiles)
+    return list(map(loadCocktail, datafiles))
 
 # load an individual cocktail
 def loadCocktail(filename):

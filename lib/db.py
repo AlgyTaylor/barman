@@ -6,7 +6,8 @@ def init(initDir):
     db.row_factory = sqlite3.Row
 
     for sqlFile in glob.glob(initDir + "/*.sql"):
-        createDb(db, file.read(open(sqlFile)))
+        sql = open(sqlFile, 'r')
+        createDb(db, sql.read())
 
     return db
 
@@ -22,7 +23,6 @@ def createDb(conn, sql):
 def addIngredients(conn, ingredients):
     cursor = conn.cursor()
     sql = 'INSERT INTO ingredient(type, name) VALUES (?, ?)'
-
     cursor.executemany(sql, ingredients)
 
     return
@@ -38,7 +38,6 @@ def addCocktails(conn, cocktails):
 def addCocktailIngredients(conn, ingredients):
     cursor = conn.cursor()
     sql = 'INSERT INTO cocktailIngredient(cocktail, ingredient) VALUES (?, ?)'
-
     cursor.executemany(sql, ingredients)
 
     return
@@ -62,7 +61,7 @@ def addCocktailMethods(conn, methods):
 
 def getPossibleCocktails(conn):
     cursor = conn.cursor()
-
+    
     sql = 'SELECT c.name, c.description,'
     sql += ' COUNT(ci.ingredient) AS ingredients,'
     sql += ' COUNT(i.name) AS inStock'
@@ -73,7 +72,7 @@ def getPossibleCocktails(conn):
     sql += ' ON ci.ingredient = i.name'
     sql += ' GROUP BY c.name, c.description'
     sql += ' HAVING ingredients = inStock;'
-
+    
     cursor.execute(sql)
-
+    
     return cursor.fetchall()

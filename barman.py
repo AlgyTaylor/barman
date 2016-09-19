@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 from lib import recipe
 from lib import ingredients
@@ -43,5 +43,5 @@ cocktails = db.getPossibleCocktails(database)
 
 print ("Menu\n----")
 for cocktail in cocktails:
-    print cocktail['name']
-    print "\t" + cocktail['description']
+    print(cocktail['name'])
+    print("\t" + cocktail['description'])
