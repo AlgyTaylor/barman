@@ -1,0 +1,15 @@
+name: Old Fashioned
+description: The classic cocktail, which has enjoyed a renaissance since featuring in TV series MadMen
+categories:
+    - classic
+    - winter
+    - autumn
+    - short
+ingredients:
+    - bourbon
+    - angostura bitters
+    - sugar syrup
+method:
+    - add sugar syrup to glass
+    - shake a few drops of bitters
+    - add 50ml bourbon

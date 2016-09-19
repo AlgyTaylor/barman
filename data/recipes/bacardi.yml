@@ -1,0 +1,18 @@
+name: Bacardi
+description: A pink pre-dinner cocktail originating in Cuba, similar to a daiquiri
+categories:
+    - iba unforgettables
+    - pre dinner
+    - citrus
+ingredients:
+    - white rum
+    - lime juice
+    - grenadine
+method:
+    - add ice to cocktail shaker
+    - add 45ml rum
+    - add 20ml lime juice
+    - add 10ml grenadine
+    - shake
+    - serve in cocktail glass without ice
+    - garnish with a lime slice

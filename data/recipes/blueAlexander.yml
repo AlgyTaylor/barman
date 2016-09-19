@@ -1,0 +1,18 @@
+name: Blue Alexander
+description: A classic Alexander cocktail, but with cacao substituted for the sweet orange flavour of blue curacao
+categories:
+    - fruit
+    - cream
+    - dessert
+ingredients:
+    - blue curacao
+    - brandy
+    - single cream
+method:
+    - fill shaker with ice
+    - add 30ml blue curacao
+    - add 30ml brandy
+    - add 30ml single cream
+    - shake
+    - pour in to glass with no ice
+    - garnish with orange slice

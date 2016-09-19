@@ -1,0 +1,17 @@
+name: Peach Melba Twist
+description: A peachy cocktail from Tony Singh's popup restaurant in Edinburgh
+categories:
+    - fruit
+    - dessert
+ingredients:
+    - amaretto
+    - peach schnapps
+    - peach puree
+    - orange bitters
+method:
+    - guesswork
+    - add 40ml amaretto
+    - add 40ml peach schnapps
+    - add 50ml peach puree
+    - add dash orange bitters
+    - stir
