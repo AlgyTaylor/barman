@@ -12,13 +12,13 @@ ingredients:
     - white rum
     - lemon juice
     - lemonade
- method:
+method:
     - add ice to shaker
-    - add 12.5ml tequila
-    - add 12.5ml gin
-    - add 12.5ml vodka
-    - add 12.5ml white rum
-    - add 12.5ml blue curacao
-    - add 12.5ml lemon juice
+    - add 15ml tequila
+    - add 15ml gin
+    - add 15ml vodka
+    - add 15ml white rum
+    - add 15ml blue curacao
+    - add 30ml lemon juice
     - shake
     - top up with lemonade, stir

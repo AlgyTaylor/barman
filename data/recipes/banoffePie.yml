@@ -1,15 +1,8 @@
 name: Banoffee Pie
-<<<<<<< HEAD:recipes/banoffePie.yml
 description: Caramel and banana cocktail from Tony Singh's popup restaurant in Edinburgh
 categories:
     - dessert
     - fruit
-=======
-description: Caramel and banana cocktail
-categories:
-    - desert
-    - modern
->>>>>>> 7c446c1dfb0b7776b11003fbafcaf166de829499:data/recipes/banoffePie.yml
 ingredients:
     - vodka
     - caramel syrup
